@@ -14,3 +14,7 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 [headers.values]
 Cache-Control = "max-age=31536000, no-transform, public"
 
+[[redirects]]
+from = "/actualites/2026-02-20-test/index.html"
+to = "/actualites/2026-02-20-chanter-sur-l-air-de/"
+
